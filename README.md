@@ -20,7 +20,7 @@ I'm a data-driven analyst with a background in institutional research and strate
 - **Data Strategist** @ [City Colleges of Chicago – Olive-Harvey](https://www.ccc.edu/colleges/olive-harvey) – *Tableau Dashboards & Strategic Reporting*
 - **Institutional Research & Data Science Fellow** @ [Urban College of Boston](https://www.urbancollege.edu/) – *Fact Book, IPEDS, and SEMP Planning*
 - **Data Science & Technology Associate** @ [Fund for Peace](https://fundforpeace.org/) – *Quantitative Analysis & Visualization*
-- **Data Analyst Research Assistant** @ [Clark University – Institutional Research](https://www.clarku.edu/offices/institutional-research/) – *Survey Analytics & Tableau Reporting*
+- **Data Analyst Research Assistant** @ [Clark University – Institutional Research](https://www.clarku.edu/offices/strategic-analytics/) – *Survey Analytics & Tableau Reporting*
 - **Research Analyst** @ [Kyros Ventures](https://kyros.ventures/) – *Cryptocurrency Market Research & Investment Analysis*
 
 ---

@@ -1,94 +1,84 @@
+<div align="center">
+
 # 👋 Hi there, I'm Linda Pham
 
-![Profile Banner](images/profile-banner.png)
+###  💼 Data Analyst @ National Institute for Student Success  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lindapham417)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:lindapham417@gmail.com)
-![Location](https://img.shields.io/badge/Atlanta%2C%20GA-%F0%9F%8F%97️-lightgrey)
-![Pronouns](https://img.shields.io/badge/She%2FHer-blueviolet)
-
-🎓 **M.S. in IT Project Management (May 2025)**  
-💼 **Data Analyst @ National Institute for Student Success**  
-☕ **Small Business Owner | Vietnamese Coffee Culture Ambassador**
+</div>
 
 ---
 
 ## 🧠 About Me
 
-I'm a data analyst and graduate student focused on transforming institutional research and higher education operations through data. I support projects that reduce equity gaps, boost student retention, and streamline decision-making using data pipelines, dashboards, and strategic reporting tools.
+I'm a data-driven analyst with a background in institutional research and strategic planning. My work supports student equity, enrollment forecasting, and policy impact across higher education institutions. I specialize in building dashboards, automating pipelines, and delivering actionable insights that inform executive decisions and improve student outcomes.
 
 ---
 
 ## 💼 Experience
 
-| Role | Organization | Focus |
-|------|--------------|-------|
-| Data Analyst | National Institute for Student Success | Institutional analytics |
-| Research Analyst | Kyros Ventures | Cryptocurrency & market research |
-| IR Fellow | Urban College of Boston | Fact Book, IPEDS, SEM |
-| RA | Clark University | Tableau dashboards & reporting |
+- **Data Analyst** @ [National Institute for Student Success (NISS)](https://niss.gsu.edu/) – *Institutional Analytics & Student Success Strategy*
+- **Data Strategist** @ [City Colleges of Chicago – Olive-Harvey](https://www.ccc.edu/colleges/olive-harvey) – *Tableau Dashboards & Strategic Reporting*
+- **Institutional Research & Data Science Fellow** @ [Urban College of Boston](https://www.urbancollege.edu/) – *Fact Book, IPEDS, and SEMP Planning*
+- **Data Science & Technology Associate** @ [Fund for Peace](https://fundforpeace.org/) – *Quantitative Analysis & Visualization*
+- **Data Analyst Research Assistant** @ [Clark University – Institutional Research](https://www.clarku.edu/offices/institutional-research/) – *Survey Analytics & Tableau Reporting*
+- **Research Analyst** @ [Kyros Ventures](https://kyros.ventures/) – *Cryptocurrency Market Research & Investment Analysis*
 
 ---
 
-## 📊 Business Intelligence & Data Visualization
+## 🛠️ My Tech Stack
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+### 📊 Business Intelligence & Visualization
+- `Tableau`
+- `Power BI`
+- `Qlik`
+  
+### 🧑‍💻 Query & Programming Languages
+- **Query Languages**: `SQL`
+- **Programming**: `Python`
+- **Web Basic Knowledge**: `HTML (basic)`
 
-📈 **Dashboards | Cohort Analysis | IPEDS | Predictive Modeling**
+### 🛢️ Databases & Data Platforms
+- **SQL-based**: `Oracle`, `SQL Server`, `PostgreSQL`, `Presto`, `Trino`, `MySQL`, `SingleStoreDB`, `Google BigQuery`
+- **NoSQL**: `MongoDB`
+- **Platform**: `GCP`, `Supabase`, `Azure`, `Snowflakes`, `Databricks`
 
----
+### 🧠 Collaboration & Project Management
+-  `Notion`, `Asana`, `Jira`, `Confluence`, `Trello`,
 
-## 🧱 Tools & Tech Stack
+### 🖌️ Design & Documentation Tools
+- `Figma`, `DBDocs`, `Draw.io`, `Miro`
 
-**Languages**:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Platforms**:  
-![Workday](https://img.shields.io/badge/Workday-FAA21B?style=flat&logo=workday&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🖼 Sample Dashboards
-
-### 📊 Tableau Dashboard: Strategic Enrollment
-
-![SEMP Tableau Dashboard](images/semp-dashboard.png)
-
-### 🧪 Data Flow: IPEDS Headcount Pipeline
-
-![IPEDS Pipeline](images/ipeds-pipeline.png)
+### 🧾 Office Productivity
+- **Microsoft Office**: `Excel`, `Word`, `PowerPoint`, `VBA`  
+- **Google Workspace**: `Google Sheets`, `Google Docs`, `Slides`
 
 ---
 
-## 🔁 Code Demo (SQL + Python Integration)
+## 📚 Education
 
-![Code Demo](images/code-demo.gif)
-
-*Python workflow for aggregating, cleaning, and visualizing student data with IPEDS rules*
+🎓 **Clark University** — *M.S. in Data Analytics (STEM)*, May 2024  
+🎓 **La Salle University** — *B.S. in Finance & Business Systems/Analytics*, Jan 2021  
+⭐ Alpha Epsilon Lambda | Beta Gamma Sigma | Summa Cum Laude
 
 ---
 
 ## 🌱 Interests
 
-- 📚 Data-driven education policy  
-- ⚽ Soccer, strength training, and film photography  
-- ☕ Vietnamese coffee and entrepreneurship  
-- 🧭 First-generation student success research
+- Higher education analytics and student equity strategy  
+- Data storytelling and visual communication  
+- Traveling, dancing, and boba milk tea
 
 ---
 
-## 📬 Connect with Me
+## 📊 GitHub Stats
 
-- LinkedIn: [linkedin.com/in/lindapham417](https://linkedin.com/in/lindapham417)  
-- Email: [lindapham417@gmail.com](mailto:lindapham417@gmail.com)  
-- GitHub: [github.com/lindapham417](https://github.com/lindapham417)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lindapham417&theme=default&hide_border=false&include_all_commits=true&count_private=true)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lindapham417&theme=default&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindapham417&theme=default&layout=compact)
 
 ---
 
-> “Equity is not a side project — it’s the product. Data helps us get there.”
-
+## 📫 Contact Me
+```yaml
+email: lindapham.417@gmail.com
+linkedin: https://www.linkedin.com/in/lindapham417/
